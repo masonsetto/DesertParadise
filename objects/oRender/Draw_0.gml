@@ -10,7 +10,7 @@ for (var tX = 0; tX < MAP_W; tX++)
 		screenX = tileToScreenX(tX, tY);
 		screenY = tileToScreenY(tX, tY);
 		
-		tileIndex = tileData[TILE.SPRITE]; // index for tile array
+		tileIndex = tileData[TILE.SPRITE]; // index for tile array 
 		tileZ = tileData[TILE.Z];
 		
 		if (ScreenToTileX(mouse_x, mouse_y) == tX) && (ScreenToTileY(mouse_x, mouse_y) == tY)
