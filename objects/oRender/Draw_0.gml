@@ -13,10 +13,16 @@ for (var tX = 0; tX < MAP_W; tX++)
 		tileIndex = tileData[TILE.SPRITE]; // index for tile array 
 		tileZ = tileData[TILE.Z];
 		
-		if (ScreenToTileX(mouse_x, mouse_y) == tX) && (ScreenToTileY(mouse_x, mouse_y) == tY)
+		if ((ScreenToTileX(mouse_x, mouse_y) == tX) && (ScreenToTileY(mouse_x, mouse_y) == tY))
 		{
 			tileIndex = 2; // this is the index for the array we made that holds all the tiles- if you want to place a different tile (like a house) then add it to the array and go from there
 			tileZ += 2; // this places the tile 2 pixels lower than plane- you can change this if you want
+			
+			// this if statement is supposed to draw a tile where cursor is when left mb is clicked
+			if (mouse_check_button_pressed(mb_left))
+			{
+				global.theMap[# tX, tY] = [2, tileZ + 2];
+			}
 		}
 		
 		if (tileIndex != 0) 
