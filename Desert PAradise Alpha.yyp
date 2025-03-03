@@ -37,6 +37,8 @@
     {"id":{"name":"oRender","path":"objects/oRender/oRender.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
+    {"id":{"name":"ScreenToTileX","path":"scripts/ScreenToTileX/ScreenToTileX.yy",},},
+    {"id":{"name":"ScreenToTileY","path":"scripts/ScreenToTileY/ScreenToTileY.yy",},},
     {"id":{"name":"TileToScreenX","path":"scripts/TileToScreenX/TileToScreenX.yy",},},
     {"id":{"name":"TileToScreenY","path":"scripts/TileToScreenY/TileToScreenY.yy",},},
     {"id":{"name":"floor1","path":"sprites/floor1/floor1.yy",},},
