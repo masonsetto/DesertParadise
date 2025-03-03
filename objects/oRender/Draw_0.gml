@@ -21,7 +21,7 @@ for (var tX = 0; tX < MAP_W; tX++)
 			// this if statement is supposed to draw a tile where cursor is when left mb is clicked
 			if (mouse_check_button_pressed(mb_left))
 			{
-				global.theMap[# tX, tY] = [2, tileZ + 2];
+				global.theMap[# tX, tY] = [2, tileZ - 2]; // tileZ - 2 resets the above tileZ modification so that the tile is placed at the same leve as the map
 			}
 		}
 		
