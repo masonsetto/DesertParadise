@@ -1,4 +1,4 @@
- /// @desc Render game
+/// @desc Render game
 
 var tileData, screenX, screenY, tileIndex, tileZ;
 
