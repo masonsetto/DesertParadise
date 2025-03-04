@@ -7,9 +7,15 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_61695CC4","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_79733BCA","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3DDDB7E6","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
+    {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_79733BCA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_79733BCA","objectId":{"name":"oHouseButton","path":"objects/oHouseButton/oHouseButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":64.0,},
+        {"$GMRInstance":"v1","%Name":"inst_3DDDB7E6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3DDDB7E6","objectId":{"name":"oTreeButton","path":"objects/oTreeButton/oTreeButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":160.0,},
+      ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Map","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Map","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":64,"TileCompressedData":[
           -65,1,-16,-2147483648,-3,1,-11,-2147483648,1,0,-31,-2147483648,-2,1,1,0,-8,-2147483648,-15,1,-38,-2147483648,
           -2,1,-9,-2147483648,-17,1,-36,-2147483648,-2,1,-8,-2147483648,-12,1,1,2,-6,1,-35,-2147483648,-2,1,-6,
