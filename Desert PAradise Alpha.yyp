@@ -38,6 +38,7 @@
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oHouseButton","path":"objects/oHouseButton/oHouseButton.yy",},},
     {"id":{"name":"oRender","path":"objects/oRender/oRender.yy",},},
+    {"id":{"name":"oRoadButton","path":"objects/oRoadButton/oRoadButton.yy",},},
     {"id":{"name":"oTreeButton","path":"objects/oTreeButton/oTreeButton.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
