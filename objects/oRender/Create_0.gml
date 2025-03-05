@@ -4,6 +4,8 @@ layer_set_visible("Map", false);
 
 global.theMap = ds_grid_create(MAP_W, MAP_H);
 
+global.selectedTile = 0; 
+
 window_set_fullscreen(true);
 
 var tileMap = layer_tilemap_get_id("Map");
