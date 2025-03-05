@@ -6,6 +6,6 @@ draw_cir = false;
 
 activate_button = function()
 {
-	global.selectedTile = 1;
+	global.selectedTile = 3;
 }
 

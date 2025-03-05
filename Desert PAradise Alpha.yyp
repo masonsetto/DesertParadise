@@ -48,6 +48,7 @@
     {"id":{"name":"button","path":"sprites/button/button.yy",},},
     {"id":{"name":"floor1","path":"sprites/floor1/floor1.yy",},},
     {"id":{"name":"floorTiles","path":"sprites/floorTiles/floorTiles.yy",},},
+    {"id":{"name":"house","path":"sprites/house/house.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
